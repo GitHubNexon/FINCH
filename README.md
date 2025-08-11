@@ -21,8 +21,7 @@ This is a command-line chatbot leveraging [Replicate.com](https://replicate.com/
 ### 1. Clone or download this repository
 
 ```powershell
-git clone https://github.com/your-username/my-chatbot.git
-cd my-chatbot
+git clone https://github.com/GitHubNexon/FINCH.git
 ```
 
 ### 2. Create `.env` file
